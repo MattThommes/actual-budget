@@ -2,7 +2,11 @@
 
 [View forked Readme](https://github.com/actualbudget/actual/blob/master/README.md)
 
-## Dev
+## Dev instructions
+
+### Initial setup
+
+[Build from source](https://actualbudget.org/docs/install/build-from-source/)
 
 Remotes should be:
 
